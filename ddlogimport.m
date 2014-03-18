@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-#import "DDLog.h"
+#import <DDLog.h>
 #ifdef DEBUG
 static const int                         ddLogLevel = LOG_LEVEL_WARN;
 #else
