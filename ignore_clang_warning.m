@@ -1,7 +1,7 @@
 // Ignore Clang Warning
 // 
 //
-// IDECodeSnippetCompletionPrefix: pragma clang ignore
+// IDECodeSnippetCompletionPrefix: #pragma clang ignore
 // IDECodeSnippetCompletionScopes: [Preprocessor]
 // IDECodeSnippetIdentifier: D7904F9A-A4CC-4A4D-AC6E-C82F148BC6BE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
