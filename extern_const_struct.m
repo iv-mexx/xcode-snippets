@@ -9,4 +9,4 @@
 // IDECodeSnippetVersion: 2
 extern const struct <#IVConstant#> {
     __unsafe_unretained NSString *<#constant#>;
-} IVConstant;
+} <#IVConstant#>;
