@@ -8,8 +8,8 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 #pragma clang diagnostic push
-#pragma clang diagnostic ignored "<# W"
+#pragma clang diagnostic ignored "<# Warning #>"
 
-
+<# C
 
 #pragma clang diagnostic pop
