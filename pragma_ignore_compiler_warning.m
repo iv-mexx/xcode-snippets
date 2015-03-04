@@ -1,7 +1,7 @@
 // Pragma Ignore Compiler Warning
 // 
 //
-// IDECodeSnippetCompletionPrefix: #pragma clang diagnostic
+// IDECodeSnippetCompletionPrefix: pragma clang diagnostic
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: AFA9AC00-51B3-4BED-90ED-DA5F5E391147
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
