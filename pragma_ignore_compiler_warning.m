@@ -10,6 +10,6 @@
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "<# Warning #>"
 
-<# C
+<# Code #>
 
 #pragma clang diagnostic pop
