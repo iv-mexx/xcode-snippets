@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 let delayTime = dispatch_time(DISPATCH_TIME_NOW,
-    Int64( * Double(NSEC_PER_SEC)))
+    Int64(<# seconds > * Double(NSEC_PER_SEC)))
 dispatch_after(delayTime, dispatch_get_main_queue()) {
     
 }
